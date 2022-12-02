@@ -4,7 +4,7 @@ Automatically copy to clipboard and option to start listener of choice.
 # Compile Instructions
 ```bash
 # Clone this repo
-https://github.com/noobultrapromax/Terminal-Reverse-Shell
+git clone https://github.com/noobultrapromax/Terminal-Reverse-Shell
 
 # Change Directory to cloned repo
 cd Terminal-Reverse-Shell
