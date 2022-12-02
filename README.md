@@ -6,6 +6,9 @@ Automatically copy to clipboard and option to start listener of choice.
 # Clone this repo
 https://github.com/noobultrapromax/Terminal-Reverse-Shell
 
+# Change Directory to cloned repo
+cd Terminal-Reverse-Shell
+
 # Compile the binary
 g++ main.cpp -o tshell
 
